@@ -1,5 +1,3 @@
-# web3-security-portfolio
-
 # Web3 Security Portfolio
 
 Hi, I'm **Nargiza Meder**, a QA Engineer transitioning into **Web3 Smart Contract Security and Auditing**.
